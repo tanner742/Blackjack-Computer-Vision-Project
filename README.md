@@ -20,7 +20,7 @@ demonstrates applied probability, computer vision, and systems design.
 
 ### Key Features
 - Real-time playing-card detection using YOLOv8 and OpenCV
-- Shoe-persistent Hi-Lo card counting with true-count estimation
+- Shoe-persistent Hi-Lo card counting assumes one deck
 - Action recommendation engine implementing basic strategy with
   Illustrious 18 and Fab 4 deviations
 - Modular architecture separating detection, counting, and strategy logic
