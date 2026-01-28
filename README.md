@@ -25,3 +25,7 @@ demonstrates applied probability, computer vision, and systems design.
   Illustrious 18 and Fab 4 deviations
 - Modular architecture separating detection, counting, and strategy logic
 - Interactive HUD displaying game state and recommendations
+
+
+The model is trained on the kaggle dataset found at this link https://www.kaggle.com/datasets/hugopaigneau/playing-cards-dataset 
+Below is an attatched video of how the finsihed product should perform:
