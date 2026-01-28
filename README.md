@@ -29,3 +29,4 @@ demonstrates applied probability, computer vision, and systems design.
 
 The model is trained on the kaggle dataset found at this link https://www.kaggle.com/datasets/hugopaigneau/playing-cards-dataset 
 Below is an attatched video of how the finsihed product should perform:
+https://youtube.com/shorts/KgrgYAl_lVY?si=aEKLl4Gh-6y1AjK- 
